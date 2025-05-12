@@ -14,7 +14,7 @@ This app allows you to:
 
 ## 🚀 Demo
 
-![App](screenshots/PVCellSimulator.png)
+![App](Screenshots/PVCellSimulator.png)
 
 ---
 
