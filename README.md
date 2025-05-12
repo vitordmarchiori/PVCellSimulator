@@ -7,8 +7,6 @@ This app allows you to:
 - 🌤 Adjust irradiance and simulate temperature ranges
 - 📈 View I-V and P-V curves in real-time
 - 📸 Export plots as PNG
-- 📄 Generate a PDF simulation report
-- 💾 Download simulation data as CSV
 
 ---
 
