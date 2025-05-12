@@ -17,7 +17,7 @@ q = 1.6e-19            # Electron charge [C]
 # --------------------------------------------------------- UI ---------------------------------------------------------
 
 st.set_page_config(page_title="PV Cell Simulator", layout="wide")
-st.title("🔆 PV Cell Simulator + Export")
+st.title("🔆 PV Cell Simulator")
 st.markdown("Simulate I-V and P-V curves for custom photovoltaic cell parameters.")
 
 # --------------------------------------------------- Sidebar Inputs ---------------------------------------------------
