@@ -33,8 +33,8 @@ This app allows you to:
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/pv-cell-simulator.git
-cd pv-cell-simulator
+git clone [https://github.com/yourusername/pv-cell-simulator.git](https://github.com/vitordmarchiori/PVCellSimulator.git)
+cd PVCellSimulator
 ```
 
 ### 2. Install dependencies
