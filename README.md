@@ -71,9 +71,7 @@ pdfkit
 
 ## 🧠 Based on:
 
-Dhruv Berwal and Monika Kaushik (2022)
-
-*Modelling and Simulation of Photovoltaic Cell in MATLAB*
+Dhruv Berwal and Monika Kaushik (2022) - *Modelling and Simulation of Photovoltaic Cell in MATLAB*
 
 [Original paper PDF](https://doi.org/10.53550/EEC.2022.v28i08s.006)
 
